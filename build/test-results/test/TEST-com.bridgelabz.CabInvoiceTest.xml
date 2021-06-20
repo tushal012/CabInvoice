@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.CabInvoiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-20T04:03:30" hostname="DESKTOP-T1B6V6K" time="0.018">
+  <properties/>
+  <testcase name="givenLessDistanceAndTime_shouldReturnMinFare" classname="com.bridgelabz.CabInvoiceTest" time="0.006"/>
+  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare" classname="com.bridgelabz.CabInvoiceTest" time="0.002"/>
+  <testcase name="givenMultipleRides_shouldReturnTotalFare" classname="com.bridgelabz.CabInvoiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

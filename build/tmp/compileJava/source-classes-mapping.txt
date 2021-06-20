@@ -1,6 +1,4 @@
+com/bridgelabz/CabRide.java
+ com.bridgelabz.CabRide
 com/bridgelabz/Ride.java
  com.bridgelabz.Ride
-com/bridgelabz/InvoiceSummary.java
- com.bridgelabz.InvoiceSummary
-com/bridgelabz/InvoiceGenerator.java
- com.bridgelabz.InvoiceGenerator
